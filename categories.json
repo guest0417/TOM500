@@ -1,13 +1,40 @@
 {
-    "categories": [
-        {"name": "SR", "id": 1},
-        {"name": "LR", "id": 2},
-        {"name": "MR", "id": 3},
-        {"name": "IR", "id": 4},
-        {"name": "ON", "id": 5},
-        {"name": "FAT", "id": 6},
-        {"name": "LG", "id": 7},
-        {"name": "SO", "id": 8},
-        {"name": "EB", "id": 9}
-    ]
+    "categories": [
+        {
+            "name": "SR",
+            "id": 1
+        },
+        {
+            "name": "LR",
+            "id": 2
+        },
+        {
+            "name": "MR",
+            "id": 3
+        },
+        {
+            "name": "IR",
+            "id": 4
+        },
+        {
+            "name": "ON",
+            "id": 5
+        },
+        {
+            "name": "FAT",
+            "id": 6
+        },
+        {
+            "name": "LG",
+            "id": 7
+        },
+        {
+            "name": "SO",
+            "id": 8
+        },
+        {
+            "name": "EB",
+            "id": 9
+        }
+    ]
 }
